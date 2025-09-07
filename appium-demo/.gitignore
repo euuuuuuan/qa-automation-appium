@@ -1,0 +1,5 @@
+# Maven 빌드된 파일 무시
+/target/
+
+# Appium 테스트 리포트 및 스크린샷 무시
+/qa-reports/
