@@ -55,19 +55,19 @@
 
 1.  **프로젝트 클론**
 
-[git clone](https://github.com/euuuuuuan/qa-automation-appium.git)
+-   [git clone](https://github.com/euuuuuuan/qa-automation-appium.git)
 
 2.  **프로젝트 열기**
 
-IntelliJ IDEA 또는 VS Code에서 Maven 프로젝트를 엽니다.
+-   IntelliJ IDEA 또는 VS Code에서 Maven 프로젝트를 엽니다.
 
 3.  **Appium Server 실행**
 
-`appium` 명령어로 서버를 실행합니다.
+-   `appium` 명령어로 서버를 실행합니다.
 
 4.  **테스트 실행**
 
-TestNG를 통해 테스트 스위트 또는 개별 테스트 클래스를 실행합니다.
+-   TestNG를 통해 테스트 스위트 또는 개별 테스트 클래스를 실행합니다.
 
 ---
 
