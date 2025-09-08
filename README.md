@@ -77,15 +77,17 @@
 
 -   **테스트 통과 화면**: `2 + 3 = 5` 연산 성공 스크린샷
 
-&nbsp;   ![성공 스크린샷]([https://user-images.githubusercontent.com/your-username/your-repo/images/addition\_result-.png](https://github.com/euuuuuuan/qa-automation-appium/blob/main/appium-demo/qa-reports/appium/screenshots/addition-result-1757344421489.png))
+![성공 스크린샷](https://github.com/euuuuuuan/qa-automation-appium/blob/main/appium-demo/qa-reports/appium/screenshots/addition-result-1757344421489.png)
 
 -   **결과 검증**: 계산 결과가 예상 값과 일치하는지 `Assert.assertTrue`를 통해 검증합니다.
 
 📸 시연 예시
 
-&nbsp;   ![성공 스크린샷]([[https://user-images.githubusercontent.com/your-username/your-repo/images/addition\_result-.png](https://github.com/euuuuuuan/qa-automation-appium/blob/main/appium-demo/qa-reports/appium/screenshots/addition-result-1757344421489.png)](https://github.com/euuuuuuan/qa-automation-appium/blob/main/auto-excution-result2.png))
+![성공 스크린샷](https://github.com/euuuuuuan/qa-automation-appium/blob/main/auto-excution-result3.png)
 
-&nbsp;   ![성공 스크린샷]([[[https://user-images.githubusercontent.com/your-username/your-repo/images/addition\_result-.png](https://github.com/euuuuuuan/qa-automation-appium/blob/main/appium-demo/qa-reports/appium/screenshots/addition-result-1757344421489.png)](https://github.com/euuuuuuan/qa-automation-appium/blob/main/auto-excution-result2.png)](https://github.com/euuuuuuan/qa-automation-appium/blob/main/auto-excution-result3.png))
+![성공 스크린샷](https://github.com/euuuuuuan/qa-automation-appium/blob/main/auto-excution-result2.png)
+
+```bash
 
 📂 프로젝트 구조 예시
 qa-automation-appium/
@@ -98,6 +100,7 @@ qa-automation-appium/
      ┣ .gitignore          
      ┣ auto-excution-result.png                   #터미널 실행화면 스크린샷
      ┗ README.md
+```
 
 ---
 
