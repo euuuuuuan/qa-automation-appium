@@ -1,8 +1,9 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name="Appium Suite">
-  <test name="CalculatorTests">
-    <classes>
-      <class name="com.example.AppTest"/>
-    </classes>
-  </test>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AppiumTestSuite" parallel="false">
+    <test name="CalculatorTest">
+        <classes>
+            <class name="com.example.AppTest"/>
+        </classes>
+    </test>
 </suite>
