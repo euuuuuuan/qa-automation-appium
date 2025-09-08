@@ -84,9 +84,9 @@
 
 📸 시연 예시
 
-![성공 스크린샷](https://github.com/euuuuuuan/qa-automation-appium/blob/main/auto-excution-result3.png)
-
 ![성공 스크린샷](https://github.com/euuuuuuan/qa-automation-appium/blob/main/auto-excution-result2.png)
+
+![성공 스크린샷](https://github.com/euuuuuuan/qa-automation-appium/blob/main/auto-excution-result3.png)
 
 ```bash
 
