@@ -58,7 +58,7 @@ public class AppTest {
     public void testAppLaunch() {
         System.out.println("\n=== 앱 실행 테스트 ===");
         String packageName = driver.getCurrentPackage();
-        Assert.assertTrue(packageName.contains("calculator"), 
+        Assert.assertTrue(packageName != null && packageName.contains("calculator"), 
             "계산기 앱이 실행되지 않았습니다. 현재 패키지: " + packageName);
         System.out.println("✅ 계산기 앱 실행 확인");
     }
