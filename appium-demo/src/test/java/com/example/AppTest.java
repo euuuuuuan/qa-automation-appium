@@ -32,8 +32,18 @@ public class AppTest {
             .setAppPackage("com.google.android.calculator")
             .setAppActivity("com.android.calculator2.Calculator")
             .setNewCommandTimeout(Duration.ofSeconds(60))
-            .setNoReset(true);  // 앱 상태 유지
-        
+            .setNoReset(true)
+            .setAutoWebview(false)
+            .setAppWaitActivity("com.android.calculator2.Calculator") // 앱 실행 대기
+            .setAppWaitDuration(Duration.ofSeconds(20)); // 앱 실행 대기 시간
+
+                // 추가 capabilities 설정
+        options.amend("autoLaunch", true)
+            .amend("forceAppLaunch", true)
+            .amend("androidInstallTimeout", 90000)
+            .amend("appWaitForLaunch", true);
+
+
         try {
             // Appium 서버 연결
             driver = new AndroidDriver(new URL("http://127.0.0.1:4723"), options);
