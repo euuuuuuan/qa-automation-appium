@@ -1,11 +1,11 @@
 # 📱 안드로이드 계산기 앱 자동화 테스트 (Appium)
 
 
-![기술 스택](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=Java\&logoColor=white)
 
-![기술 스택](https://img.shields.io/badge/Appium-000000?style=flat-square\&logo=appium\&logoColor=white)
 
-![테스트 프레임워크](https://img.shields.io/badge/TestNG-B31B1B?style=flat-square\&logo=testng\&logoColor=white)
+
+
+
 
 ---
 
@@ -61,11 +61,11 @@
 
 #### **실행 환경**
 
--   **Java JDK**: 21.08
+-   **Java JDK**: 21.08 ![기술 스택](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=Java\&logoColor=white)
 
 -   **Android Studio**: 21.0. 7 (Pixel 9a API 36)
 
--   **Appium Server**: 3.0.1
+-   **Appium Server**: 3.0.1 ![기술 스택](https://img.shields.io/badge/Appium-000000?style=flat-square\&logo=appium\&logoColor=white)
 
 -   **Maven**: 3.9.11
 
@@ -87,7 +87,7 @@
 
 4.  **테스트 실행**
 
--   TestNG를 통해 테스트 스위트 또는 개별 테스트 클래스를 실행합니다.
+-   TestNG를 통해 테스트 스위트 또는 개별 테스트 클래스를 실행합니다. ![테스트 프레임워크](https://img.shields.io/badge/TestNG-B31B1B?style=flat-square\&logo=testng\&logoColor=white)
 
 ---
 
