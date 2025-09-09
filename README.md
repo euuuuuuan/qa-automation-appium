@@ -61,13 +61,13 @@
 
 #### **실행 환경**
 
--   **Java JDK**: 21.08 ![기술 스택](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=Java\&logoColor=white)
+-   ![Java](https://img.shields.io/badge/Java-JDK_21-007396?style=flat-square&logo=openjdk&logoColor=white)
 
--   **Android Studio**: 21.0. 7 (Pixel 9a API 36) ![기술 스택](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+-   ![Android Studio](https://img.shields.io/badge/Android_Studio-Giraffe-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
--   **Appium Server**: 3.0.1 ![기술 스택](https://img.shields.io/badge/Appium-000000?style=flat-square\&logo=appium\&logoColor=white)
+-   ![Appium](https://img.shields.io/badge/Appium_Server-3.0.1-F44336?style=flat-square&logo=appium&logoColor=white)
 
--   **Maven**: 3.9.11
+-   ![Maven](https://img.shields.io/badge/Maven-3.9.11-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 
 
