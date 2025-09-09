@@ -63,7 +63,7 @@
 
 -   **Java JDK**: 21.08 ![기술 스택](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=Java\&logoColor=white)
 
--   **Android Studio**: 21.0. 7 (Pixel 9a API 36)
+-   **Android Studio**: 21.0. 7 (Pixel 9a API 36) ![기술 스택](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 -   **Appium Server**: 3.0.1 ![기술 스택](https://img.shields.io/badge/Appium-000000?style=flat-square\&logo=appium\&logoColor=white)
 
